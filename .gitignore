@@ -1,0 +1,12 @@
+.venv/ 
+venv/ 
+ENV/ 
+__pycache__/ 
+*.pyc 
+experiments/ 
+data/ 
+*.pth 
+*.pt 
+*.tar.gz 
+.DS_Store 
+Thumbs.db 
